@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="str_btn1">Crear Usuario</string>
+    <string name="str_btn2">Listar Usuario</string>
+</resources>
